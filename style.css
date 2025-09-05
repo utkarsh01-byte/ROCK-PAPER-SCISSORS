@@ -83,3 +83,12 @@ img{
     display: inline;
     font-style: italic;
 }
+footer{
+    background-color:#053C5E;
+	color: white;
+	padding: 1rem;
+	text-align: center;
+    font-style: italic;
+    margin-top: 5rem;
+    line-height: 2rem;
+}
